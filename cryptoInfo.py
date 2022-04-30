@@ -178,7 +178,7 @@ def get_link_for_news():
         else:
             break
 
-
-banner_price(1, 3890, 1027, 5426, 2010)
-print_news()
-get_link_for_news()
+if __name__ == '__main__':
+    banner_price(1, 3890, 1027, 5426, 2010)
+    print_news()
+    get_link_for_news()
