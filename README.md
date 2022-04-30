@@ -1,7 +1,9 @@
 # CRYPTO APP
 
 
-# this program shows the cryptocurrency rate for a certain period of time, and today's news from the site beincrypto.ru
+# This program shows:
+## The cryptocurrency rate for a certain period of time
+## Today's news from the site beincrypto.ru
 
 
 
